@@ -1,23 +1,18 @@
 # Voice-assistant
 
-A step by step tutorial on building a voice-based assistant using python.
+Từng bước xây dựng một trợ lý ảo tiếng việt
 
-Simple voice-based desktop/laptop assistant that has the capability to:-
-1. Open the subreddit in the browser.
-2. Open any website in the browser.
-3. Send an email to your contacts.
-4. Launch any system application.
-5. Tells you the current weather and temperature of almost any city
-6. Tells you the current time.
-7. Greetings
-8. Play you a song on VLC media player(of course you need to have VLC media player installed in your laptop/desktop)
-9. Change desktop wallpaper.
-10. Tells you latest news feeds.
-11. Tells you about almost anything you ask.
+Phải nói rằng, sẽ thật tuyệt vời nếu có thể tự mình tạo ra một trợ lý ảo ngay trên chiếc máy tính để bàn hay laptop của mình với các tiện ích đơn giản như:
 
-Interaction with Voice assistant:
-https://photos.google.com/share/AF1QipNJW9DztpXUh4dBJN06S4cwKHo0S1PyWZrTJqjaVJ5ZJysxzjI4pxazL3sd_hvAiw?key=U28yakRQOTdGcmFvMTktZnMwYmF4NGZMeVY5a0hB
+1. Giao tiếp, chào hỏi
+2. Cho bạn biết thời gian hiện tại
+3. Khởi chạy ứng dụng hệ thống và mở bất kỳ trang web nào trên trình duyệt Chrome
+4. Mở Google search và tìm kiếm thay cho bạn
+5. Gửi email đến những người trong danh bạ của bạn
+6. Cho bạn biết thời tết và nhiệt độ hiện tại của hầu hết mọi thành phố
+7. Phát cho bạn một bài hát trên Youtube
+8. Thay đổi hình nền máy tính
+9. Cho bạn biết tin tức mới nhất
+10. Nói cho bạn về hấu hết mọi thứ bạn yêu cầu
 
-You can read this article to know more.
-https://towardsdatascience.com/build-your-first-voice-assistant-85a5a49f6cc1
-# Virtual-Assistant
+![](https://cdn.vietnambiz.vn/2020/4/10/photo-1586508102670-15865081026711844469177.jpg)
